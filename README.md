@@ -5,19 +5,19 @@ A WPF project that connects hosting units with guests and creates orders, USING 
 ![Image](./HostingUnit.PNG)
 ## Add Guest Request
 ![Image](./HostingUnit2.PNG)
-## Add Hosting unit
+## Add Guest Request - Complete
 ![Image](./HostingUnit3.PNG)
-## Hosting Unit - Private Area
+## Add Hosting Unit - Choose Bank Details
 ![Image](./HostingUnit4.PNG)
-## Hosting Unit - Orders
+## Add Hosting Unit - Complete 
 ![Image](./HostingUnit5.PNG)
-## Home Page
+## Hosting Unit - Private Area
 ![Image](./HostingUnit6.PNG)
-## Home Page
+## Hosting Unit - Orders
 ![Image](./HostingUnit7.PNG)
-## Home Page
+## Administrator Login
 ![Image](./HostingUnit8.PNG)
-## Home Page
+## Table of all guests requests
 ![Image](./HostingUnit9.PNG)
-## Home Page
+## Table of all orders
 ![Image](./HostingUnit10.PNG)
